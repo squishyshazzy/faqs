@@ -1,1 +1,1 @@
-# faqs
+# tumyfaqs
